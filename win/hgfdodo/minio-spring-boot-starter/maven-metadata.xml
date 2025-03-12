@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>win.hgfdodo</groupId>
-  <artifactId>minio-spring-boot</artifactId>
+  <artifactId>minio-spring-boot-starter</artifactId>
   <versioning>
     <release>1.0</release>
     <versions>

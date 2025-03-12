@@ -1,0 +1,13 @@
+win/hgfdodo/minio/service/ObjectOps.class
+win/hgfdodo/minio/service/http/MediaType$1.class
+win/hgfdodo/minio/service/BucketOps.class
+win/hgfdodo/minio/exception/MinioBadRequestException.class
+win/hgfdodo/minio/service/http/InvalidMediaTypeException.class
+win/hgfdodo/minio/service/http/MediaTypeFactory.class
+win/hgfdodo/minio/connection/MinioConnectionFactory.class
+win/hgfdodo/minio/service/MinioTemplate.class
+win/hgfdodo/minio/exception/ObjectNameFormatException.class
+win/hgfdodo/minio/config/MinioProperties.class
+win/hgfdodo/minio/config/MinioAutoConfiguration.class
+win/hgfdodo/minio/service/http/MediaType.class
+win/hgfdodo/minio/model/Location.class
