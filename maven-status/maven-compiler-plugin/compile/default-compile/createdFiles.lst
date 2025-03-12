@@ -1,4 +1,0 @@
-win/hgfdodo/minio/service/ImageService.class
-win/hgfdodo/minio/config/ImageProcessAutoConfiguration.class
-win/hgfdodo/minio/exception/NotImageException.class
-win/hgfdodo/minio/exception/MaformatedObjectNameException.class
