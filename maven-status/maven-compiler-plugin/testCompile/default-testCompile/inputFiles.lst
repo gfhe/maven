@@ -1,4 +1,2 @@
-/workspaces/minio-spring-boot/minio-spring-boot-starter/src/test/java/win/hgfdodo/minio/service/BucketOpsTest.java
-/workspaces/minio-spring-boot/minio-spring-boot-starter/src/test/java/win/hgfdodo/minio/service/http/MediaTypeFactoryTest.java
-/workspaces/minio-spring-boot/minio-spring-boot-starter/src/test/java/win/hgfdodo/minio/TestMain.java
-/workspaces/minio-spring-boot/minio-spring-boot-starter/src/test/java/win/hgfdodo/minio/service/MinioTemplateTest.java
+/workspaces/minio-spring-boot/minio-image-processor/src/test/java/win/hgfdodo/minio/service/TestMain.java
+/workspaces/minio-spring-boot/minio-image-processor/src/test/java/win/hgfdodo/minio/service/ImageServiceTest.java

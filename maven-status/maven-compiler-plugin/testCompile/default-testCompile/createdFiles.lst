@@ -1,4 +1,2 @@
-win/hgfdodo/minio/service/http/MediaTypeFactoryTest.class
-win/hgfdodo/minio/service/MinioTemplateTest.class
-win/hgfdodo/minio/service/BucketOpsTest.class
-win/hgfdodo/minio/TestMain.class
+win/hgfdodo/minio/service/ImageServiceTest.class
+win/hgfdodo/minio/service/TestMain.class
