@@ -16,6 +16,7 @@
 
     <properties>
         <spring.boot.version>3.2.1</spring.boot.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
     <distributionManagement>
@@ -80,7 +81,7 @@
                 <artifactId>site-maven-plugin</artifactId>
                 <version>0.12</version>
                 <configuration>
-                    <message>Maven artifacts for ${project.name}:${project.version}</message>
+                    <message>Maven artifacts for ${project.version}</message>
                     <noJekyll>true</noJekyll>
                     <outputDirectory>${project.build.directory}</outputDirectory>
                     <branch>refs/heads/main</branch>
