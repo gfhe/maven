@@ -1,7 +1,4 @@
-win/hgfdodo/minio/vo/MinioItem.class
-win/hgfdodo/minio/MinioEndpointMain.class
-win/hgfdodo/minio/vo/MinioBucket.class
-win/hgfdodo/minio/exception/MinioEntityExceptionHandler.class
-win/hgfdodo/minio/config/MinioRepositoryAutoConfiguration.class
-win/hgfdodo/minio/exception/MinioError.class
-win/hgfdodo/minio/endpoint/MinioEndpoint.class
+win/hgfdodo/minio/config/ImageProcessAutoConfiguration.class
+win/hgfdodo/minio/service/ImageService.class
+win/hgfdodo/minio/exception/NotImageException.class
+win/hgfdodo/minio/exception/MaformatedObjectNameException.class
